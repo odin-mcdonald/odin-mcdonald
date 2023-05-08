@@ -1,7 +1,7 @@
 ### Hi, I'm Odin McDonald 👋
 ## 🔭 Check out my latest project! My online portfolio for Digital Product Management (Spring 2023)
 ## 📫 Please reach me at analytic.odin@gmail.com
-## Pronounds: he/him
+# Pronouns: he/him
 <!--
 **odin-mcdonald/odin-mcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
